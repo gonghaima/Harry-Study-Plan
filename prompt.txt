@@ -29,3 +29,21 @@ Can you review the writing, question for my son year 4 school,
 
 Writing:
 A bird was soraing in the sky and saw another bird was flying fast and high.
+
+
+check /Users/stevengong/Downloads/student-training/Harry/Writing/4-week-starter-plan.md, and /Users/stevengong/Downloads/student-training/Harry/Writing/4-week-starter-plan.md, and existing files in /Users/stevengong/Downloads/student-training/Harry/Writing/Week1.
+
+I want to create /Week2 content
+
+*************************************************************************************
+
+Refer to /Users/stevengong/Downloads/student-training/Harry/Writing/plan.md, and
+/Users/stevengong/Downloads/student-training/Harry/Writing/Week2/topic1.md,
+
+My son is currently working on /Users/stevengong/Downloads/student-training/Harry/Writing/Week2/Answers/a.1.md,
+He got answer in the "His answer:" section.
+
+Can you review, and provide enhanced answer base on his answer?
+
+
+*************************************************************************************
